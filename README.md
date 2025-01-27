@@ -1,8 +1,32 @@
-### Oii! Me chamo Rafaela Januario
+### 🚀 Estudante de Ciências da Computação | Explorando Dados e Soluções Estratégicas 🚀🌟
 
-- Realizo projetos com impacto no dia a dia das pequenas empresas locais, buscando aprendizado e contribuição com a comunidade 
-- Estudando C.
-- iniciando na programação
+Sou estudante de Ciências da Computação, explorando áreas como programação, análise de dados e inteligência de mercado. Apaixonada por criar soluções práticas para problemas reais, busco aprender continuamente e contribuir para projetos com impacto positivo na comunidade.
+
+### Explorando 🧩
+Estou sempre explorando novas ideias e ferramentas. Aqui estão algumas áreas que estou focando no momento:
+
+🧠 Lógica e Algoritmos: Soluções criativas para problemas clássicos, experimentando ordenações e buscas em C.
+📊 Análise de Dados: Construção de gráficos e insights utilizando Python.
+
+### Habilidades 🛠️
+Algumas das ferramentas e competências que venho desenvolvendo ao longo da minha jornada:
+
+### Linguagens de Programação:
+C – Aplicado à lógica e construção de algoritmos.
+Python – Explorando análise de dados e automações.
+JavaScript – Projetos práticos e dinâmicos.
+
+### Ferramentas:
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### Competências:
+Raciocínio Lógico – Resolução estruturada e eficiente de problemas.
+Análise Crítica – Interpretação e extração de insights de dados.
+Comunicação – Clareza em apresentações e colaborações em equipe.
+
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
