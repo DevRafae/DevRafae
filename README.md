@@ -15,14 +15,8 @@ Estou sempre explorando novas ideias e ferramentas. Aqui estão algumas áreas q
 ### Habilidades 🛠️
 Algumas das ferramentas e competências que venho desenvolvendo ao longo da minha jornada:
 
-### Linguagens de Programação:
-C – Aplicado à lógica e construção de algoritmos.
 
-Python – Explorando análise de dados e automações.
-
-JavaScript – Projetos práticos e dinâmicos.
-
-### Linguagens e ferramentas:
+### Linguagens e ferramentas: 🛠️
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -35,9 +29,12 @@ JavaScript – Projetos práticos e dinâmicos.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Competências:
+![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-%E2%9C%94-blue?style=for-the-badge)
 Raciocínio Lógico – Resolução estruturada e eficiente de problemas.
 Análise Crítica – Interpretação e extração de insights de dados.
 Comunicação – Clareza em apresentações e colaborações em equipe.
+
+
 
 
  <div style="display: inline_block"><br>
