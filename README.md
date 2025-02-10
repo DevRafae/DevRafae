@@ -1,4 +1,6 @@
 ### 🚀 Estudante de Ciências da Computação | Explorando Dados e Soluções Estratégicas 🚀🌟
+![✨ Aesthetic Dev ✨](https://img.shields.io/badge/%E2%9C%A8%20Aesthetic%20Dev%20%E2%9C%A8-ffb6c1?style=for-the-badge)
+
 
 Sou estudante de Ciências da Computação, explorando áreas como programação, análise de dados e inteligência de mercado. Apaixonada por criar soluções práticas para problemas reais, busco aprender continuamente e contribuir para projetos com impacto positivo na comunidade.
 
