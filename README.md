@@ -1,4 +1,4 @@
-### 🚀 Estudante de Ciências da Computação | Explorando Dados e Soluções Estratégicas 🚀🌟
+###  Estudante de Ciências da Computação | Explorando Dados e Soluções Estratégicas 🚀🌟
 ![Dev Girl](https://img.shields.io/badge/Dev%20Girl-%F0%9F%92%96-ff69b4?style=for-the-badge)
 
 
