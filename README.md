@@ -29,7 +29,8 @@ Algumas das ferramentas e competências que venho desenvolvendo ao longo da minh
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Competências:
-![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-%E2%9C%94-blue?style=for-the-badge)
+![💙 Inglês](https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-%23A5A3FF?style=for-the-badge&logo=sparkles&logoColor=white)
+
 Raciocínio Lógico – Resolução estruturada e eficiente de problemas.
 Análise Crítica – Interpretação e extração de insights de dados.
 Comunicação – Clareza em apresentações e colaborações em equipe.
