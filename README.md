@@ -9,6 +9,7 @@ Sou estudante de Ciências da Computação, explorando áreas como programação
 Estou sempre explorando novas ideias e ferramentas. Aqui estão algumas áreas que estou focando no momento:
 
 🧠 Lógica e Algoritmos: Soluções criativas para problemas clássicos, experimentando ordenações e buscas em C.
+
 📊 Análise de Dados: Construção de gráficos e insights utilizando Python.
 
 ### Habilidades 🛠️
@@ -16,7 +17,9 @@ Algumas das ferramentas e competências que venho desenvolvendo ao longo da minh
 
 ### Linguagens de Programação:
 C – Aplicado à lógica e construção de algoritmos.
+
 Python – Explorando análise de dados e automações.
+
 JavaScript – Projetos práticos e dinâmicos.
 
 ### Ferramentas:
