@@ -46,3 +46,6 @@ Comunicação – Clareza em apresentações e colaborações em equipe.
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DevRafae&show_icons=false&theme=dark#gh-dark-mode-only)](https://github.com/DevRafae/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DevRafae&show_icons=false&theme=default#gh-light-mode-only)](https://github.com/DevRafae/github-readme-stats#gh-light-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafae&layout=compact&theme=dark#gh-dark-mode-only)
+
+![Women in Tech](https://img.shields.io/badge/Women%20in%20Tech-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-ff99cc?style=for-the-badge)
+
